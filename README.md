@@ -56,17 +56,16 @@ It reflects practical experience building applications similar to real world e-c
 - REST API architecture
 
 **Database**
--MongoDB
+- MongoDB
 
 ---
 
 ## Skills Applied
-
--Frontend UI development
--Backend REST API design
--Client-server integration
--Asynchronous JavaScript
--Modular and structured code
+- Frontend UI development
+- Backend REST API design
+- Client-server integration
+- Asynchronous JavaScript
+- Modular and structured code
 
 ---
 
